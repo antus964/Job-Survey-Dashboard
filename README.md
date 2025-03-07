@@ -1,17 +1,17 @@
-📊 Data Professional Survey Dashboard
+#📊 Data Professional Survey Dashboard
 🚀 Built using Power BI & Microsoft Excel
 
-📌 Project Overview
+#📌 Project Overview
 
 This project analyzes survey data from data professionals to uncover salary trends, job roles, and preferred programming languages. Using PowerQuery Editor, the raw dataset is cleaned and structured for effective visualization in Power BI.
 
-🔍 Key Focus Areas:
+#🔍 Key Focus Areas:
 
 ✔️ Data cleaning & transformation using PowerQuery
 ✔️ Effective data visualization techniques
 ✔️ Extracting insights on salary trends, job roles & education
 
-🛠 Tools & Technologies Used
+#🛠 Tools & Technologies Used
 
 📊 Power BI – For interactive dashboard creation
 
@@ -19,7 +19,7 @@ This project analyzes survey data from data professionals to uncover salary tren
 
 📄 Microsoft Excel – Data preprocessing
 
-⚡ Challenges Faced & Solutions
+#⚡ Challenges Faced & Solutions
 
 1️⃣ 🔄 Data Cleaning & Structuring
 
@@ -40,7 +40,7 @@ Salary distribution → Bar charts & Box plots
 
 Country-wise salary trends → Map visualizations
 
-📈 Key Insights from the Dashboard
+#📈 Key Insights from the Dashboard
 
 📌 Salary Trends
 
@@ -54,7 +54,7 @@ Country-wise salary trends → Map visualizations
 
 Salary variations depend on economic factors in different regions.
 
-📌 Education & Career Insights
+#📌 Education & Career Insights
 
 🎓 PhD is not necessary to enter the data industry! Bachelor’s & Master’s degrees are sufficient.
 
@@ -64,7 +64,7 @@ Salary variations depend on economic factors in different regions.
 
 Despite high salaries, many data professionals are not completely satisfied with their earnings.
 
-🚀 How to Use the Dashboard
+#🚀 How to Use the Dashboard
 
 1️⃣ Download & Open the Power BI File
 
@@ -72,6 +72,6 @@ Despite high salaries, many data professionals are not completely satisfied with
 
 3️⃣ Gain Insights on Salary Trends & Industry Preferences
 
-📜 License
+#📜 License
 
 📝 This project is licensed under the MIT License.
