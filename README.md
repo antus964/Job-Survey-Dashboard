@@ -52,7 +52,7 @@ Country-wise salary trends → Map visualizations
 
 🇮🇳 India has the lowest average salary, but cost of living plays a major role in salary structures.
 
-Salary variations depend on economic factors in different regions.
+Salary variations depend on economic factors in different regions
 
 # 📌 Education & Career Insights
 
