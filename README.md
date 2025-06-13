@@ -5,7 +5,7 @@
  
 This project analyzes survey data from data professionals to uncover salary trends, job roles, and preferred programming languages. Using PowerQuery Editor, the raw dataset is cleaned and structured for effective visualization in Power BI.
   
-# 🔍 Key Focus Areas: 
+# 🔍 Key Focus Areas:  
  
 ✔️ Data cleaning & transformation using PowerQuery 
 ✔️ Effective data visualization techniques
