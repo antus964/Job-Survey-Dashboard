@@ -7,7 +7,7 @@ This project analyzes survey data from data professionals to uncover salary tren
   
 # 🔍 Key Focus Areas: 
  
-✔️ Data cleaning & transformation using PowerQuery
+✔️ Data cleaning & transformation using PowerQuery 
 ✔️ Effective data visualization techniques
 ✔️ Extracting insights on salary trends, job roles & education
 
