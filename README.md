@@ -9,7 +9,7 @@ This project analyzes survey data from data professionals to uncover salary tren
     
 ✔️ Data cleaning & transformation using PowerQuery  
 ✔️ Effective data visualization techniques
-✔️ Extracting insights on salary trends, job roles & education
+✔️ Extracting insights on salary trends, job roles & education 
 
 # 🛠 Tools & Technologies Used
 
